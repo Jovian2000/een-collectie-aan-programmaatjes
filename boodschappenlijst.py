@@ -16,6 +16,7 @@ print("")
 print("Boodschappenlijst:")
 for a, b in groceriesDict.items():
     print(a, b)
+# De for loop zorgt ervoor dat wat er in de dictionary zit onder elkaar is gezet 
 
  
 
