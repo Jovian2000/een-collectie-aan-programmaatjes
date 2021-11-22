@@ -11,8 +11,10 @@ cardsImport("Klaver")
 cardsImport("Harten")
 cardsImport("Schoppen")
 cardsImport("Ruiten")
+# random.shuffle zorgt ervoor dat hij de list van deck door elkaar haalt
 random.shuffle(deck)
 for i in range(7): 
     print("Kaart " + str(i + 1) + ": " + deck[i])
 print("")
 print(deck)
+print("Er zitten " + str(len(deck)) + " kaarten")
