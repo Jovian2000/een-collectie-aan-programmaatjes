@@ -86,3 +86,9 @@ print("Grote letters: " + str(upper))
 print("Symbolen: " + str(symbolsCount))
 print("Getallen: " + str(numbersCount))
 ```
+## F1.6.02.O5
+toegevoegd
+## F1.6.02.O6
+toegevoegd
+## F1.6.02.O7
+toegevoegd
