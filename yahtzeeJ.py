@@ -12,12 +12,6 @@ diceC = 0
 diceD = 0
 diceE = 0
 
-smallStraightList1 = [1,2,3,4]
-smallStraightList2 = [2,3,4,5]
-smallStraightList3 = [3,4,5,6]
-largeStraightList1 = [1,2,3,4,5]
-largeStraightList2 = [2,3,4,5,6]
-
 aces = False
 twos = False
 threes = False
